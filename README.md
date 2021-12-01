@@ -2,7 +2,8 @@
 
 ## Description:
 
-_I create this repository to learn Java with you! Here you can find my Java studies divided into folder that will be updated step by step._
+_I create this repository to learn Java with you! 
+Here you can find my Java studies divided into folder that will be updated step by step._
 
 
 ## License:
