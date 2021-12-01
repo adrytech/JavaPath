@@ -1,6 +1,6 @@
 ## ✌️ JAVAPATH❗
 
-##### I create this repository to learn Java with you!☕
+#### I create this repository to learn Java with you!☕
 
 <br />
 
