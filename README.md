@@ -2,7 +2,7 @@
 
 ## Description:
 
-_I create this repository to learn Java with you! 
+_I create this repository to learn Java with you! <br />
 Here you can find my Java studies divided into folder that will be updated step by step._
 
 
