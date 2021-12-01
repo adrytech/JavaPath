@@ -10,6 +10,6 @@ _Here you can find my Java studies divided into folder that will be updated step
 
 - [MIT](https://coosealicense.com/licenses/mit) 
 
-## 💬 How to contact me?
+## Contacts
 - adrytechbusiness@gmail.com 📗
 - [Telegram](https://t.me/AdryTechYT) 📕
